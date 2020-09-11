@@ -1,6 +1,4 @@
 # My Each
-#my_each(array) {|x| puts x}
-#array.each {|x| puts x}
 
 ## Objectives
 
